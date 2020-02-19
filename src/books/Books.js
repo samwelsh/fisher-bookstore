@@ -1,4 +1,5 @@
-import React from "react";
+import React, { Component } from "react";
+// import { BookDisplay } from "./BooksDisplay";
 import "./Books.css";
 
 export default function Books () {
@@ -11,3 +12,4 @@ export default function Books () {
         </div>
     );
 }
+
