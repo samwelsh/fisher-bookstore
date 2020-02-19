@@ -8,7 +8,7 @@ export function BookCard(props) {
             <Card.Body>
                 <Card.Title>{props.book.title}</Card.Title>
                 <Card.Text>Author: {props.book.author}</Card.Text>
-                <Button variant="warning">Add to Card</Button>
+                <Button variant="warning">Add to Cart</Button>
             </Card.Body>
         </Card>
     );
