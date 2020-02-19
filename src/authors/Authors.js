@@ -6,7 +6,7 @@ export default function Authors () {
         <div className="Authors">
             <div className="Authors">
                 <h1>Authors</h1>
-                <p>Welcome to Authors.</p>
+                <p>Authors Section.</p>
             </div>
         </div>
     );
