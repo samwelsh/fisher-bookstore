@@ -9,13 +9,24 @@ export default class Authors extends Component {
             authors: [
                 {
                     id: 1,
-                    fName: "Bob",
-                    lName: "Smith"
+                    fName: "JK",
+                    lName: "Rowling",
+                    numTitles: 14,
+                    image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/J._K._Rowling_2010.jpg" ,
                 },
                 {
                     id: 2,
-                    fName: "Mike",
-                    lName: "Johnson"
+                    fName: "Barack",
+                    lName: "Obama",
+                    numTitles: 2,
+                    image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+                },
+                {
+                    id: 3,
+                    fName: "Stephen",
+                    lName: "King",
+                    numTitles: 31,
+                    image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Stephen_King%2C_Comicon.jpg",
                 }
             ] 
         }
