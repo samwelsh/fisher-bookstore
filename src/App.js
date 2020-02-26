@@ -4,7 +4,7 @@ import {Navbar} from "react-bootstrap";
 import {Nav} from "react-bootstrap";
 import {NavItem} from "react-bootstrap";
 import {Link} from "react-router-dom";
-import { BrowserRouter as Router } from "react-router-dom";
+//import { BrowserRouter as Router } from "react-router-dom";
 import Routes from "./Routes.js";
 
 export default class App extends Component {
