@@ -24,7 +24,7 @@ export default class Authors extends Component {
         return (
             <div className="Authors">
                 <div className="lander">
-                    <AuthorsDisplay author={this.state.author} />
+                    <AuthorsDisplay authors={this.state.authors} />
                </div>
             </div>
         );
