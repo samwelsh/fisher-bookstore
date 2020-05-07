@@ -1,6 +1,3 @@
-
-//import "./Books.css";
-
 import React, {useEffect, useState } from "react";
 import { BookDisplay } from "./BookDisplay";
 
